@@ -1,4 +1,4 @@
-### Hi there
+### Hey There!
 
 Read to learn more about me, + Goals of mine. 
 -  Originally from Morris County, New Jersey. Moved down to Charlotte, NC for some great opportunites.
