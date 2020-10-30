@@ -1,6 +1,6 @@
 ### Hey There!
 
-Read to learn more about me, + Goals of mine. 
+Read to learn more about me + Goals of mine.
 -  Originally from Morris County, New Jersey. Moved down to Charlotte, NC for some great opportunites.
 - 💬 Began coding in 2019, quickly fell in love and had a burning desire to create amazing web applications to expand the way people interact with software and applications.
 
