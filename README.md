@@ -1,6 +1,6 @@
 ### Hey There!
 
-Read to learn more about me, + Goals of mine.
+Read to learn more **About** me, + **Goals** of mine.
 -  Originally from Morris County, New Jersey. Moved down to Charlotte, NC for some great opportunites.
 
 ### Story time
