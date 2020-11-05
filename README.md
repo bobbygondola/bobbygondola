@@ -5,7 +5,7 @@ Read to learn more **About** me, + **Goals** of mine.
 
 ### Story time
 
-🌟 My Software Technology & Data career started in 2017 when I fell in love with creating spreadsheets using company data and logic. I would develop multi-page spreadsheets to display company info, members, productivity, client information, and more. The power to develop info-systems/data manipulation got me hooked and excited about how to grab and display data in different ways. This lead me to Software Development and creating amazing products.
+🌟 My Software Technology & Data career started in 2017 when I fell in love with creating spreadsheets using company data and logic. I would develop multi-page spreadsheets to display company info, members, productivity, client information, and more. The power to develop info-systems lead me to be hooked and excited about how to grab and display data in different ways. This lead me to Software Development and creating amazing products.
 
 ✍ The events that follow, occurred after the realization from 2017 (building info-systems). In mid-2019 I tasked with developing business metrics for a company to solve the problem of unknown growth rates and internal department productivity. I was writing functions, conditionals, and displaying client data information.
 
