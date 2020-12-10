@@ -14,7 +14,7 @@ Read to learn more **About** me, + **Goals** of mine.
 
 ### Goals of mine
 
-- 🔭 Innovation is always on my mind. An example of an idea I would have loved to work with would have been Paypal. They started as a 'super-bank' of financial services, but the consumers had a different idea. Consumers were not too impressed with financial services but mainly loved the ability to email payments! From this and many more examples, I gained knowledge on adapting to the customer to create a great platform/product/service.
+- 🔭 Innovation is always on my mind. An example of an idea I would have loved to work with would have been Paypal. They started as a 'super-bank' of financial services, but the consumers had a different idea. Consumers were not too impressed with basic financial services aspect but mainly loved the ability to email payments! From this and many more examples, I gained knowledge on adapting to the customer to create a great platform/product/service.
 
 - ⚡ I will never stop advancing to come across the next innovative stepping stone in this world. I aspire to work with a company to help!
 
