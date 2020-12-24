@@ -1,6 +1,7 @@
+### Intro
 Hey there, I'm Robert Gondola from Charlotte, NC. I'm an ambitious Software Developer who is aspiring to work with a company with a high speed, future-driven culture.
 
-## 𝗦𝗧𝗢𝗥𝗬-
+### 𝗦𝗧𝗢𝗥𝗬-
 
 I started my career in 2017 when I fell in love with creating CRM-like spreadsheets for companies. In 2019 I was tasked to engineer a large Information System spreadsheet to track internal department performance and external client data. The resulting product allowed for the company to view growth rates (In multiple aspects), department performance, conversion rates, and more! The CEO was so happy with the product that they uses that CRM-like spreadsheet to this day.
 
