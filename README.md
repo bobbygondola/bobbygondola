@@ -1,20 +1,11 @@
-### Hey There!
+Hey there, I'm Robert Gondola from Charlotte, NC. I'm an ambitious Software Developer who is aspiring to work with a company with a high speed, future-driven culture.
 
-Read to learn more **About** me, + **Goals** of mine.
+## 𝗦𝗧𝗢𝗥𝗬-
 
-### Story time
+I started my career in 2017 when I fell in love with creating CRM-like spreadsheets for companies. In 2019 I was tasked to engineer a large Information System spreadsheet to track internal department performance and external client data. The resulting product allowed for the company to view growth rates (In multiple aspects), department performance, conversion rates, and more! The CEO was so happy with the product that they uses that CRM-like spreadsheet to this day.
 
-🌟 My Software & Technology career started in 2017 when I fell in love with creating spreadsheets using company data and logic. I would develop multi-page spreadsheets to display company info, members, productivity, client information, and more. The power to develop info-systems lead me to getting hooked and excited about how to grab and display data in different ways. This lead me to Software Development and creating amazing products.
+This experience lead me to love working with data to create rich, data-driven software!
 
-✍ The events that follow, occurred after the realization from 2017 (building info-systems). In mid-2019 I tasked with developing business metrics for a company to solve the problem of unknown growth rates and internal department productivity. I was writing functions, conditionals, and displaying client data information.
+I now develop deep, intricate web software with JavaScript, React, HTML, CSS, Redux, Node, Express, Python, Databases, and host most of my code repositories on Github. If tasked with an idea, as an engineer, my job to implement technologies to solve that problem.
 
-⌛ The metrics were company-client based to keep track of subscriptions, internal department performance (with graphs), leads, and more! I created an interconnected 10-page spreadsheet that the company uses as a CRM still to this day.
-
-✔ I'm excited to have the opportunity to create real software, User-Interfaces, and Back-Ends that companies can use. Send me an email if you want to chat!
-
-### Goals of mine
-
-- 🔭 Innovation is always on my mind. An example of an idea I would have loved to work with would have been Paypal. They started as a 'super-bank' of financial services, but the consumers had a different idea. Consumers were not too impressed with basic financial services aspect but mainly loved the ability to email payments! From this and many more examples, I gained knowledge on adapting to the customer to create a great platform/product/service.
-
-- ⚡ I will never stop advancing to come across the next innovative stepping stone in this world. I aspire to work with a company to help!
-
+Whether I'm tasked to build an admin section for an e-commerce platform, pulling and displaying data from various APIs on analytical dashboards, or simply creating a company's online web application. I base my confidence in my ability to learn. If you know how to learn, you do just about anything.
