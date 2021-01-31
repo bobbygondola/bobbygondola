@@ -2,6 +2,6 @@ I started my career in 2017 when I fell in love with creating CRM-like spreadshe
 
 This experience lead me to love working with data to create rich, data-driven software!
 
-I now develop deep, intricate web software with JavaScript, React, HTML, CSS, Redux, Node, Express, Python, Databases, and host most of my code repositories on Github. If tasked with an idea, as an engineer, my job to implement technologies to solve that problem.
+I now develop deep, intricate web software with Java, JavaScript, Python, React, HTML, CSS, Redux, Node, Express, Databases, and host most of my code repositories on Github. If tasked with an idea, as an engineer, my job to implement technologies to solve that problem.
 
-Whether I'm tasked to build an admin section for an e-commerce platform, pulling and displaying data from various APIs on analytical dashboards, or simply creating a company's online web application. I base my confidence in my ability to learn. If you know how to learn, you do just about anything.
+Whether I'm tasked to build an admin section for an e-commerce platform, pulling and displaying data from various APIs to build analytical dashboards, or simply creating a company's online web application. I base my confidence in my ability to learn. If you know how to learn, you do just about anything.
